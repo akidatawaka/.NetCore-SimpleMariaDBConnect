@@ -1,0 +1,11 @@
+C:\Users\admin\source\repos\BasicConnectMariaDB\BasicConnectMariaDB\bin\Debug\netcoreapp2.1\BasicConnectMariaDB.deps.json
+C:\Users\admin\source\repos\BasicConnectMariaDB\BasicConnectMariaDB\bin\Debug\netcoreapp2.1\BasicConnectMariaDB.runtimeconfig.json
+C:\Users\admin\source\repos\BasicConnectMariaDB\BasicConnectMariaDB\bin\Debug\netcoreapp2.1\BasicConnectMariaDB.runtimeconfig.dev.json
+C:\Users\admin\source\repos\BasicConnectMariaDB\BasicConnectMariaDB\bin\Debug\netcoreapp2.1\BasicConnectMariaDB.dll
+C:\Users\admin\source\repos\BasicConnectMariaDB\BasicConnectMariaDB\obj\Debug\netcoreapp2.1\BasicConnectMariaDB.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\BasicConnectMariaDB\BasicConnectMariaDB\obj\Debug\netcoreapp2.1\BasicConnectMariaDB.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\BasicConnectMariaDB\BasicConnectMariaDB\obj\Debug\netcoreapp2.1\BasicConnectMariaDB.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\BasicConnectMariaDB\BasicConnectMariaDB\obj\Debug\netcoreapp2.1\BasicConnectMariaDB.AssemblyInfo.cs
+C:\Users\admin\source\repos\BasicConnectMariaDB\BasicConnectMariaDB\bin\Debug\netcoreapp2.1\BasicConnectMariaDB.pdb
+C:\Users\admin\source\repos\BasicConnectMariaDB\BasicConnectMariaDB\obj\Debug\netcoreapp2.1\BasicConnectMariaDB.dll
+C:\Users\admin\source\repos\BasicConnectMariaDB\BasicConnectMariaDB\obj\Debug\netcoreapp2.1\BasicConnectMariaDB.pdb
